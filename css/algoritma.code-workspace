@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../../algoritma"
+		},
+		{
+			"path": "../../pratikum algo"
+		}
+	],
+	"settings": {
+		"C_Cpp.autocompleteAddParentheses": true
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools-extension-pack"
+		]
+	}
+}
